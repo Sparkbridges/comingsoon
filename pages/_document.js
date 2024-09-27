@@ -5,6 +5,7 @@ class CustomDocument extends Document {
       <Html lang="english">
         <Head>
           <meta charSet="utf-8"></meta>
+          <link rel="icon" href="./favicon.ico" />
           <meta property="twitter:card" content="summary_large_image"></meta>
           <style
             dangerouslySetInnerHTML={{

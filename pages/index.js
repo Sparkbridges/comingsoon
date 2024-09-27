@@ -53,6 +53,8 @@ const ComingSoon = (props) => {
             content="width=device-width, initial-scale=1.0"
           />
           <meta charSet="utf-8"></meta>
+          <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+          <link rel="icon" href="./favicon.ico" />
           <meta property="twitter:card" content="summary_large_image"></meta>
           <title>SparkXplorer</title>
         </Head>
